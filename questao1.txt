@@ -1,0 +1,4 @@
+Supondo que todos os filósofos comecem o protocólo simultaneamente, 
+teremos que no máximo dois filósofos dentre os cinco existentes conseguiram pegar os garfos direito e esquerdo para comer, 
+não havendo a possibilidade de em algum momento da execução do protocolo nenhum filósofo ficar sem comer. 
+Portanto, o protocolo da questão garante uma operação sem impasse, ou seja, sem travamento.
